@@ -4,3 +4,10 @@
     "tailwindcss": "^3.4.15"
   }
 }
+"scripts": {
+  "build": "react-scripts build", // React
+  "build": "next build",         // Next.js
+  "build": "vite build",         // Vite
+  "build": "vue-cli-service build" // Vue
+}
+
